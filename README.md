@@ -26,7 +26,7 @@ Cyber-Security-Resources 💫
     *Blockchain Security
     *Threat Modelling
 
-Happy hunting❗️👻
+Happy hunting❗️
 
 ***General Resources 📝***
 
@@ -48,7 +48,7 @@ Happy hunting❗️👻
 
 • http://dfir.org/?q=node/8
 
-***LinkedIn Profiles Worth Following: ***
+***LinkedIn Profiles Worth Following:***
 
 • https://www.linkedin.com/in/willbroom/
 
