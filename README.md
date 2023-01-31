@@ -30,6 +30,22 @@ Happy hunting❗️
 
 ***General Resources 📝***
 
+• https://attack.mitre.org/
+
+• https://www.unifiedkillchain.com/
+
+• https://osintframework.com/
+
+• https://www.mandiant.com/resources/insights/apt-groups
+
+• https://www.exploit-db.com/
+
+• https://nvd.nist.gov/vuln/full-listing
+
+• https://www.rapid7.com/db/
+
+• https://offsec.tools/
+
 • https://danielmiessler.com/blog/the-difference-between-a-penetration-test-and-a-red-team-engagement/
 
 • https://kalitut.com/
