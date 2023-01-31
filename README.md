@@ -1,32 +1,33 @@
 Cyber-Security-Resources 💫
 
-Contents
-    Pentest General Resources
-    Web Pentest
-    Mobile Pentest
-    Cloud Security & Pentest
-    Bug Bounty
-    OSINT & Google Dorks
-    API Security & Pentest
-    Active Directory
-    Red Teaming
-    Exploit Development
-    AppSec & Code Review
-    DevSecOps
-    CTFs & Writeups
-    Social Engineering
-    Certifications
-    Roadmaps
-    Security Architecture
-    IoT Security
-    Container Security
-    Blockchain Security
-    Threat Modelling
-    General Resources
+***Contents***
+
+    *General Resources
+    *Pentest General Resources
+    *Web Pentest
+    *Mobile Pentest
+    *Cloud Security & Pentest
+    *Bug Bounty
+    *OSINT & Google Dorks
+    *API Security & Pentest
+    *Active Directory
+    *Red Teaming
+    *Exploit Development
+    *AppSec & Code Review
+    *DevSecOps
+    *CTFs & Writeups
+    *Social Engineering
+    *Certifications
+    *Roadmaps
+    *Security Architecture
+    *IoT Security
+    *Container Security
+    *Blockchain Security
+    *Threat Modelling
 
 Happy hunting❗️👻
 
-General Resources 📝
+***General Resources 📝***
 
 https://danielmiessler.com/blog/the-difference-between-a-penetration-test-and-a-red-team-engagement/
 
@@ -46,7 +47,7 @@ https://www.cyberseek.org/pathway.html
 
 http://dfir.org/?q=node/8
 
-Pentest General Resources 📝
+***Pentest General Resources 📝***
 
 https://github.com/enaqx/awesome-pentest
 
@@ -94,7 +95,7 @@ https://viperone.gitbook.io/pentest-everything/
 
 https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/
 
-Web Pentest 📝
+***Web Pentest 📝***
 
 https://pentestbook.six2dez.com/others/web-checklist
 
@@ -116,7 +117,7 @@ https://hariprasaanth.notion.site/hariprasaanth/WEB-APPLICATION-PENTESTING-CHECK
 
 https://alike-lantern-72d.notion.site/Web-Application-Penetration-Testing-Checklist-4792d95add7d4ffd85dd50a5f50659c6
 
-Mobile Pentest 📝
+***Mobile Pentest 📝***
 
 https://0xn3va.gitbook.io/cheat-sheets/
 
@@ -128,7 +129,7 @@ https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
 
 https://github.com/vaib25vicky/awesome-mobile-security
 
-Cloud Security & Pentest 📝
+***Cloud Security & Pentest 📝***
 
 https://github.com/dafthack/CloudPentestCheatsheets
 
@@ -144,7 +145,7 @@ https://github.com/4ndersonLin/awesome-cloud-security
 
 https://github.com/aquasecurity/cloud-security-remediation-guides
 
-Bug Bounty 📝
+***Bug Bounty 📝***
 
 https://bugbountyforum.com/tools/recon/
 
@@ -190,7 +191,7 @@ https://bbinfosec.medium.com/collection-of-bug-bounty-tip-will-be-updated-daily-
 
 https://github.com/imran-parray/Mind-Maps/blob/master/Recon%20-%20Imran%20parray/My-recon.png
 
-OSINT & Google Dorks 📝
+***OSINT & Google Dorks 📝***
 
 https://github.com/jivoi/awesome-osint
 
@@ -210,7 +211,7 @@ https://github.com/redhuntlabs/Awesome-Asset-Discovery
 
 https://github.com/Proviesec/google-dorks
 
-API Security & Pentest 📝
+***API Security & Pentest 📝***
 
 https://raw.githubusercontent.com/cyprosecurity/API-SecurityEmpire/main/assets/API Pentesting Mindmap.png
 
@@ -230,7 +231,7 @@ https://www.virtuesecurity.com/api-penetration-testing/
 
 https://university.apisec.ai/
 
-Active Directory 📝
+***Active Directory 📝***
 
 https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/
 
@@ -242,7 +243,7 @@ https://blog.spookysec.net/ad-lab-2/
 
 https://github.com/WazeHell/vulnerable-AD
 
-Red Teaming 📝
+***Red Teaming 📝***
 
 https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
 
@@ -250,11 +251,11 @@ https://github.com/infosecn1nja/Red-Teaming-Toolkit
 
 https://github.com/0xJs/RedTeaming_CheatSheet
 
-Exploit Development 📝
+***Exploit Development 📝***
 
 https://github.com/FabioBaroni/awesome-exploit-development
 
-AppSec & Code Review 📝
+***AppSec & Code Review 📝***
 
 https://wehackpurple.com/blogs/page/2/
 
@@ -280,7 +281,7 @@ https://erdemstar08.medium.com/code-scan-with-sast-net-framework-4-8-876d42673c7
 
 https://erdemstar08.medium.com/code-scan-with-sast-net-core-3-49cb8c742ecc
 
-DevSecOps 📝
+***DevSecOps 📝***
 
 https://github.com/sottlmarek/DevSecOps
 
@@ -292,7 +293,7 @@ https://github.com/TaptuIT/awesome-devsecops
 
 https://github.com/We5ter/Awesome-DevSecOps-Platforms
 
-CTFs & Writeups 📝
+***CTFs & Writeups 📝***
 
 https://bitvijays.github.io/LFC-VulnerableMachines.html#ctf-series-vulnerable-machines
 
@@ -302,11 +303,11 @@ https://htbmachines.github.io/
 
 https://github.com/Crypto-Cat/CTF
 
-Social Engineering 📝
+***Social Engineering 📝***
 
 https://github.com/v2-dev/awesome-social-engineering
 
-Certifications 📝
+***Certifications 📝***
 
 https://brcyrr.medium.com/recommendations-of-oscp-433a08c86f27
 
@@ -326,7 +327,7 @@ https://github.com/brcyrr/OSWP
 
 https://twitter.com/Shubham_pen/status/1537657538795085824
 
-Roadmaps 📝
+***Roadmaps 📝***
 
 https://medium.com/@rezaduty/web-penetration-testing-roadmap-4e7bb9edf23b
 
@@ -336,25 +337,25 @@ https://github.com/rezaduty/cybersecurity-career-path
 
 https://github.com/CyberSecurityUP/PenTest-Certifications-Roadmap
 
-Security Architecture 📝
+***Security Architecture 📝***
 
 https://zeltser.com/security-architecture-cheat-sheet/
 
-IoT Security 📝
+***IoT Security 📝***
 
 https://github.com/V33RU/IoTSecurity101
 
 https://github.com/nebgnahz/awesome-iot-hacks
 
-Container Security 📝
+***Container Security 📝***
 
 https://github.com/krol3/container-security-checklist
 
-Blockchain Security 📝
+***Blockchain Security 📝***
 
 https://github.com/xxxeyJ/Awesome-Blockchain-Security
 
-Threat Modelling 📝
+***Threat Modelling 📝***
 
 https://github.com/hysnsec/awesome-threat-modelling
 
