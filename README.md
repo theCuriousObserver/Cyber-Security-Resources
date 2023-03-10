@@ -27,9 +27,7 @@ Cyber-Security-Resources 💫
     *Threat Modelling
     *News Sources
 
-Happy hunting❗️
-
-**_General Resources 📝_**
+***General Resources 📝***
 
 • https://attack.mitre.org/
 
