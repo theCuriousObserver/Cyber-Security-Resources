@@ -1,6 +1,6 @@
 Cyber-Security-Resources 💫
 
-***Contents***
+**_Contents_**
 
     *General Resources
     *LinkedIn Profiles Worth Following
@@ -29,7 +29,7 @@ Cyber-Security-Resources 💫
 
 Happy hunting❗️
 
-***General Resources 📝***
+**_General Resources 📝_**
 
 • https://attack.mitre.org/
 
@@ -69,7 +69,7 @@ Happy hunting❗️
 
 • http://dfir.org/?q=node/8
 
-***LinkedIn Profiles Worth Following:***
+**_LinkedIn Profiles Worth Following:_**
 
 • https://www.linkedin.com/in/willbroom/
 
@@ -89,7 +89,9 @@ Happy hunting❗️
 
 • https://www.linkedin.com/company/sans-institute/
 
-***Pentest General Resources 📝***
+• https://cheatsheetseries.owasp.org/
+
+**_Pentest General Resources 📝_**
 
 • https://github.com/enaqx/awesome-pentest
 
@@ -137,7 +139,7 @@ Happy hunting❗️
 
 • https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/
 
-***Web Pentest 📝***
+**_Web Pentest 📝_**
 
 • https://pentestbook.six2dez.com/others/web-checklist
 
@@ -159,7 +161,7 @@ Happy hunting❗️
 
 • https://alike-lantern-72d.notion.site/Web-Application-Penetration-Testing-Checklist-4792d95add7d4ffd85dd50a5f50659c6
 
-***Mobile Pentest 📝***
+**_Mobile Pentest 📝_**
 
 • https://0xn3va.gitbook.io/cheat-sheets/
 
@@ -171,7 +173,7 @@ Happy hunting❗️
 
 • https://github.com/vaib25vicky/awesome-mobile-security
 
-***Cloud Security & Pentest 📝***
+**_Cloud Security & Pentest 📝_**
 
 • https://github.com/dafthack/CloudPentestCheatsheets
 
@@ -187,7 +189,7 @@ Happy hunting❗️
 
 • https://github.com/aquasecurity/cloud-security-remediation-guides
 
-***Bug Bounty 📝***
+**_Bug Bounty 📝_**
 
 • https://bugbountyforum.com/tools/recon/
 
@@ -233,7 +235,7 @@ Happy hunting❗️
 
 • https://github.com/imran-parray/Mind-Maps/blob/master/Recon%20-%20Imran%20parray/My-recon.png
 
-***OSINT & Google Dorks 📝***
+**_OSINT & Google Dorks 📝_**
 
 • https://github.com/jivoi/awesome-osint
 
@@ -253,7 +255,7 @@ Happy hunting❗️
 
 • https://github.com/Proviesec/google-dorks
 
-***API Security & Pentest 📝***
+**_API Security & Pentest 📝_**
 
 • https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.pdf
 
@@ -271,7 +273,7 @@ Happy hunting❗️
 
 • https://university.apisec.ai/
 
-***Active Directory 📝***
+**_Active Directory 📝_**
 
 • https://1337red.wordpress.com/building-and-attacking-an-active-directory-lab-with-powershell/
 
@@ -283,7 +285,7 @@ Happy hunting❗️
 
 • https://github.com/WazeHell/vulnerable-AD
 
-***Red Teaming 📝***
+**_Red Teaming 📝_**
 
 • https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
 
@@ -291,11 +293,11 @@ Happy hunting❗️
 
 • https://github.com/0xJs/RedTeaming_CheatSheet
 
-***Exploit Development 📝***
+**_Exploit Development 📝_**
 
 • https://github.com/FabioBaroni/awesome-exploit-development
 
-***AppSec & Code Review 📝***
+**_AppSec & Code Review 📝_**
 
 • https://wehackpurple.com/blogs/page/2/
 
@@ -321,7 +323,7 @@ Happy hunting❗️
 
 • https://erdemstar08.medium.com/code-scan-with-sast-net-core-3-49cb8c742ecc
 
-***DevSecOps 📝***
+**_DevSecOps 📝_**
 
 • https://github.com/sottlmarek/DevSecOps
 
@@ -333,7 +335,7 @@ Happy hunting❗️
 
 • https://github.com/We5ter/Awesome-DevSecOps-Platforms
 
-***CTFs & Writeups 📝***
+**_CTFs & Writeups 📝_**
 
 • https://bitvijays.github.io/LFC-VulnerableMachines.html#ctf-series-vulnerable-machines
 
@@ -343,11 +345,11 @@ Happy hunting❗️
 
 • https://github.com/Crypto-Cat/CTF
 
-***Social Engineering 📝***
+**_Social Engineering 📝_**
 
 • https://github.com/v2-dev/awesome-social-engineering
 
-***Certifications 📝***
+**_Certifications 📝_**
 
 • https://brcyrr.medium.com/recommendations-of-oscp-433a08c86f27
 
@@ -367,7 +369,7 @@ Happy hunting❗️
 
 • https://twitter.com/Shubham_pen/status/1537657538795085824
 
-***Roadmaps 📝***
+**_Roadmaps 📝_**
 
 • https://medium.com/@rezaduty/web-penetration-testing-roadmap-4e7bb9edf23b
 
@@ -377,29 +379,29 @@ Happy hunting❗️
 
 • https://github.com/CyberSecurityUP/PenTest-Certifications-Roadmap
 
-***Security Architecture 📝***
+**_Security Architecture 📝_**
 
 • https://zeltser.com/security-architecture-cheat-sheet/
 
-***IoT Security 📝***
+**_IoT Security 📝_**
 
 • https://github.com/V33RU/IoTSecurity101
 
 • https://github.com/nebgnahz/awesome-iot-hacks
 
-***Container Security 📝***
+**_Container Security 📝_**
 
 • https://github.com/krol3/container-security-checklist
 
-***Blockchain Security 📝***
+**_Blockchain Security 📝_**
 
 • https://github.com/xxxeyJ/Awesome-Blockchain-Security
 
-***Threat Modelling 📝***
+**_Threat Modelling 📝_**
 
 • https://github.com/hysnsec/awesome-threat-modelling
 
-***News Sources 📝***
+**_News Sources 📝_**
 
 • CISO Series - https://cisoseries.com/
 
