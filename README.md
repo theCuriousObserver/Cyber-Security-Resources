@@ -85,6 +85,8 @@ Cyber-Security-Resources 💫
 
 • https://www.linkedin.com/in/brcyrr/
 
+• https://www.linkedin.com/in/yildizokan/
+
 • https://www.linkedin.com/company/sans-institute/
 
 • https://cheatsheetseries.owasp.org/
