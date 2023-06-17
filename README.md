@@ -83,6 +83,8 @@ Cyber-Security-Resources 💫
 
 • https://www.linkedin.com/company/cybersecurity-news/
 
+• https://www.linkedin.com/company/cyberwrites/
+
 • https://www.linkedin.com/in/brcyrr/
 
 • https://www.linkedin.com/in/yildizokan/
@@ -92,6 +94,8 @@ Cyber-Security-Resources 💫
 • https://cheatsheetseries.owasp.org/
 
 **_Pentest General Resources 📝_**
+
+• https://gbhackers.com/hacking-tools-list/?
 
 • https://github.com/enaqx/awesome-pentest
 
