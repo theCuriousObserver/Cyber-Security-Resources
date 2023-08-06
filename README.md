@@ -91,6 +91,8 @@ Cyber-Security-Resources 💫
 
 • https://www.linkedin.com/company/sans-institute/
 
+• https://www.linkedin.com/company/secureb4/
+
 • https://cheatsheetseries.owasp.org/
 
 **_Pentest General Resources 📝_**
@@ -258,6 +260,8 @@ Cyber-Security-Resources 💫
 • https://github.com/redhuntlabs/Awesome-Asset-Discovery
 
 • https://github.com/Proviesec/google-dorks
+
+• https://start.me/p/DPYPMz/the-ultimate-osint-collection - The Ultimate OSINT Collection (hatless1der)
 
 **_API Security & Pentest 📝_**
 
